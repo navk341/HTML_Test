@@ -1,3 +1,3 @@
 # HTML_Test
 
-Trying to design a basic HTML page.
+Designed a basic HTML page for practise.
